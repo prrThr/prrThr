@@ -1,6 +1,6 @@
-<a href="https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=prrThr&show_icons=true&theme=transparent">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=prrThr&show_icons=true&theme=transparent" />
+<a href="https://github.com/prrThr/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=prrThr&show_icons=true&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<a href="https://github.com/prrThr/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prrThr&theme=transparent&layout=compact" />
 </a>
